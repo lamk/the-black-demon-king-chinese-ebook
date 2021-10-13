@@ -8,7 +8,7 @@
   * [3 地狱](chapter-1/3.md)
   * [4 黒魔法](chapter-1/4.md)
   * [5 49号](chapter-1/5.md)
-  * [6 白色的研究所](chapter-1/6.md)
+  * [6 白之秘迹](chapter-1/6.md)
   * [7 自由](chapter-1/7.md)
   * [8 白色战栗](chapter-1/8.md)
   * [9 港口都市](chapter-1/9.md)
