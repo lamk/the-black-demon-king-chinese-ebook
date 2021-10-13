@@ -1,0 +1,18 @@
+{
+  "language" : "zh-hans",
+  "plugins": [
+    "-lunr",
+    "-search",
+    "-sharing",
+    "expandable-chapters-small",
+    "back-to-top-button",
+    "chapter-fold",
+	"tbfed-pagefooter"
+  ],
+  "pluginsConfig": {
+	"tbfed-pagefooter": {
+      "modify_label": "修订时间：",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    }
+  }
+}
